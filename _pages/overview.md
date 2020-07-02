@@ -2,7 +2,6 @@
 layout: post
 title:  "Overview"
 author: "Dreanor"
-comments: true
 permalink: /overview/
 ---
 
