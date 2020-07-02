@@ -15,6 +15,9 @@ layout: default
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
+	
+	{% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
+	{% include tags_list.html tags=tag_list %}
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>
