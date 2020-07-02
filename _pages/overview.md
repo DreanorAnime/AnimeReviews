@@ -6,8 +6,6 @@ comments: true
 permalink: /overview/
 ---
 
-![Holo](..\assets\best_girl.jpg)
-
 **Seasonal Reviews**  
 [Spring 2020](https://dreanoranime.github.io/AnimeReviews/2020-07-02/spring-2020)
 
