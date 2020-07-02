@@ -10,7 +10,7 @@
     {% endif %}
 
     {% for tag in tags %}
-		<a href="{{ "/tags" | relative_url }}#{{ tag | cgi_escape }}">{{ tag }}</a>
+		[<a href="{{ "/tags" | relative_url }}#{{ tag | cgi_escape }}">{{ tag }}</a>]
     {% endfor %}
   </div>
 </footer>
