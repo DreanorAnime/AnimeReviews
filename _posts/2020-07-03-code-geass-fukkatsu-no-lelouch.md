@@ -6,16 +6,14 @@ author: "Dreanor"
 tags: [Code Geass, Movie, Action, Drama, Mecha, Military, Science Fiction, Super Power]
 ---
 
-![img](..\assets\posts\code_geass_poster.jpg)
+![img](..\assets\posts\code_geass_movie_end.jpg)
 
 Oh man, it has already been 5 years since I finished watching the anime, time really does fly by.
 
 I still fucking hate Suzaku and it didn't change after watching this movie. C.C. remains the best girl and is taking care of the now mentally retarded Lelouch.
 Lelouch made a really nice comback at the prison, things are about to get hyped! The reactions of everyone seeing Lelouch are really good and fitting. Going back in time is overpowered as a geass, but that didn't really help her.
 Nice ending with C.C and L.L going on a journey.
-
-![img](..\assets\posts\code_geass_movie_end.jpg)
-
+  
 This movie is really good, I give it a 9/10
 
 ---
