@@ -7,6 +7,7 @@ tags: [Code Geass, Movie, Action, Drama, Mecha, Military, Science Fiction, Super
 ---
 
 ![img](..\assets\posts\code_geass_poster.jpg)
+
 Oh man, it has already been 5 years since I finished watching the anime, time really does fly by.
 
 I still fucking hate Suzaku and it didn't change after watching this movie. C.C. remains the best girl and is taking care of the now mentally retarded Lelouch.
