@@ -48,5 +48,5 @@ Completed Anime #2300 - [Shingeki no Kyojin Season 3](https://myanimelist.net/an
 Completed Anime #2400 - [Ulysses: Jehanne Darc to Renkin no Kishi](https://myanimelist.net/anime/36510)  
 Completed Anime #2500 - [Yuragi-sou no Yuuna-san](https://myanimelist.net/anime/36726)  
 Completed Anime #2600 - [Yichang Shengwu Jianwenlu](https://myanimelist.net/anime/39421/Yichang_Shengwu_Jianwenlu)  
-Completed Anime #2700 - [Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.](https://myanimelist.net/anime/38790/Itai_no_wa_Iya_nano_de_Bougyoryoku_ni_Kyokufuri_Shitai_to_Omoimasu)  
+Completed Anime #2700 - [Bofuri](https://myanimelist.net/anime/38790/Itai_no_wa_Iya_nano_de_Bougyoryoku_ni_Kyokufuri_Shitai_to_Omoimasu)  
 Completed Anime #2800 - [Shironeko Project: Zero Chronicle](https://myanimelist.net/anime/38843/Shironeko_Project__Zero_Chronicle)  
