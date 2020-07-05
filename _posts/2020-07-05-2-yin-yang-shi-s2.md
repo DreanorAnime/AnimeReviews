@@ -17,4 +17,4 @@ Cute girls are cute 8/10.
 ---
 
 [![kitsu](..\assets\kitsu.png)](https://kitsu.io/anime/yin-yang-shi-ping-an-wu-yu-2nd-season)[![mal](..\assets\mal.ico)](https://myanimelist.net/anime/40568/Yin_Yang_Shi__Ping_An_Wu_Yu_2nd_Season)  
-Official Site: [https://www.bilibili.com/bangumi/media/md28221367/)  
+Official Site: [https://www.bilibili.com/bangumi/media/md28221367/](https://www.bilibili.com/bangumi/media/md28221367/)  
