@@ -6,7 +6,7 @@ permalink: /overview/
 ---
 
 **Seasonal Reviews**  
-[Spring 2020](https://dreanoranime.github.io/AnimeReviews/2020-07-02/spring-2020)
+[Spring 2020](https://dreanoranime.github.io/AnimeReviews/2020-07-01/spring-2020)
 
 **Kitsu Seasons**  
 [Version 1.3.0](https://kitsu.io/posts/9074595)  
