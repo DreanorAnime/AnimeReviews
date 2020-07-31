@@ -10,7 +10,9 @@ tags: [Action, Comedy, School, Shounen, Super Power]
 
 Oh boy, the movie seems to be getting fucked with shit reviews because of tranny snowflakes. Let's see how it really is!
 The soundtrack gets me everytime it is just too good and fits. What the hell is the point of these meaningless task like finding a lost child in a shopping mall and changing a tire? 
-This makes heroes basically a bitch for all your problems you are too lazy to solve yourself. The fighting scenes are good as always, but the kids are way too retarded, not even running when there is danger right infront of them.
+This makes heroes basically a bitch for all your problems you are too lazy to solve yourself. 
+
+The fighting scenes are good as always, but the kids are way too retarded, not even running when there is danger right infront of them.
 I really did not expect how the ending turned out with Deku and Bakugou working together to defeat the big boss. This hypes up the next season and I can't wait to see how they evolve from now on.
    
 Good movie to watch and way better than the first one. 8/10
