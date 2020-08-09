@@ -12,6 +12,9 @@ permalink: /overview/
 [Version 1.3.0](https://kitsu.io/posts/9074595)  
 [Version 1.0.0](https://kitsu.io/posts/9040628)
 
+**Automatic anime/manga list backup**
+[https://github.com/DreanorAnime/Scripts/blob/master/src/AnimeMangaListExport.sh](https://github.com/DreanorAnime/Scripts/blob/master/src/AnimeMangaListExport.sh)
+
 **Best of the Year**  
 [2019 - Sewayaki Kitsune no Senko-san](https://kitsu.io/anime/sewayaki-kitsune-no-senko-san)  
 [2018 - Satsuriku no Tenshi](https://kitsu.io/anime/satsuriku-no-tenshi)  
