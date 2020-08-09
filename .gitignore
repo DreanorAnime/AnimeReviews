@@ -1,8 +1,5 @@
-*.gem
-.bundle
-.DS_Store
-.sass-cache
 _site
-Gemfile.lock
-.jekyll-cache
-_posts/2020-00-00-template.md
+.sass-cache
+.jekyll-metadata
+node_modules/
+yarn.lock

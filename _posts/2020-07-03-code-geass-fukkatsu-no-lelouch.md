@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "Code Geass: Fukkatsu no Lelouch"
-comments: true
-author: "Dreanor"
+img: posts/code_geass_movie_end.jpg
 tags: [Code Geass, Movie, Action, Drama, Mecha, Military, Science Fiction, Super Power]
 ---
-
-![img](..\assets\posts\code_geass_movie_end.jpg)
 
 Oh man, it has already been 5 years since I finished watching the anime, time really does fly by.
 
@@ -18,5 +15,5 @@ This movie is really good, I give it a 9/10
 
 ---
 
-[![kitsu](..\assets\kitsu.png)](https://kitsu.io/anime/code-geass-fukkatsu-no-lelouch)[![mal](..\assets\mal.ico)](https://myanimelist.net/anime/34437/Code_Geass__Fukkatsu_no_Lelouch)  
+[![kitsu](..\assets\img\kitsu.png)](https://kitsu.io/anime/code-geass-fukkatsu-no-lelouch)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/34437/Code_Geass__Fukkatsu_no_Lelouch)  
 Official Site: [http://www.geass.jp/R-geass/](http://www.geass.jp/R-geass/)  

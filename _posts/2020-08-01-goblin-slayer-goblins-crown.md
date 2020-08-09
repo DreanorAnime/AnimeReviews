@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "Goblin Slayer: Goblin's Crown"
-comments: true
-author: "Dreanor"
+img: posts/goblin_slayer_goblins_crown.jpg
 tags: [Action, Adventure, Fantasy]
 ---
-
-![img](..\assets\posts\goblin_slayer_goblins_crown.jpg)
 
 Time for some more rape and goblin slaying!
 
@@ -18,5 +15,5 @@ Pretty mediocre and it's missing most violent parts from the manga 7/10
 
 ---
 
-[![kitsu](..\assets\kitsu.png)](https://kitsu.io/anime/goblin-slayer-goblins-crown)[![mal](..\assets\mal.ico)](https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown)  
+[![kitsu](..\assets\img\kitsu.png)](https://kitsu.io/anime/goblin-slayer-goblins-crown)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown)  
 Official Site: [http://www.goblinslayer.jp/](http://www.goblinslayer.jp/)  

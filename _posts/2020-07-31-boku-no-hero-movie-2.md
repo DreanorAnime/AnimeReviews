@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "Boku no Hero Academia the Movie 2: Heroes:Rising"
-comments: true
-author: "Dreanor"
+img: posts/boku_no_hero_movie2.jpg
 tags: [Action, Comedy, School, Shounen, Super Power]
 ---
-
-![img](..\assets\posts\boku_no_hero_movie2.jpg)
 
 Oh boy, the movie seems to be getting fucked with shit reviews because of tranny snowflakes. Let's see how it really is!
 The soundtrack gets me everytime it is just too good and fits. What the hell is the point of these meaningless task like finding a lost child in a shopping mall and changing a tire? 
@@ -19,5 +16,5 @@ Good movie to watch and way better than the first one. 8/10
 
 ---
 
-[![kitsu](..\assets\kitsu.png)](https://kitsu.io/anime/boku-no-hero-academia-the-movie-2)[![mal](..\assets\mal.ico)](https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising)  
+[![kitsu](..\assets\img\kitsu.png)](https://kitsu.io/anime/boku-no-hero-academia-the-movie-2)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising)  
 Official Site: [https://www.heroaca-movie.com/](https://www.heroaca-movie.com/)  

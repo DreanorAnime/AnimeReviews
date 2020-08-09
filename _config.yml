@@ -1,35 +1,47 @@
-# Site settings
-title:          Anime Reviews
-description:    "Anime Reviews"
-url:            "https://dreanoranime.github.io/AnimeReviews"
+logo: # add logo name
+title: Anime Reviews
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/AnimeReviews" # the subpath of your site, e.g. /blog
+url: "https://dreanoranime.github.io/AnimeReviews/" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Author
-author:
-  name:         Dreanor
+# Banner settings
+video: mountains.mp4 # add banner video. Add your video file to the folder video
+banner-title: # add banner title
+banner-desc: # add banner description
+
+# Author settings
+author-pic: face.jpg
+author-name: Dreanor 
+about-author: Meh
+website: https://dreanoranime.github.io/AnimeReviews/
+
+
+# Disqus
+discus_identifier: dreanoranimereviews # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+
+# Newsletter
+mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Tracker
+analytics:
+
+# Paginate
+paginate: 12
+paginate_path: /page:num/
 
 # Build settings
-markdown:       kramdown
-include:
-  - _pages
-
-# Assets
-sass:
-  sass_dir:     _sass
-  style:        compressed
-
-# Gems
-plugins:
-  - jekyll-feed
+markdown: kramdown
+plugins_dir:
   - jekyll-paginate
-  - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jekyll-sitemap
 
-# Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
 
-# Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
-disqus:         dreanoranimereviews
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

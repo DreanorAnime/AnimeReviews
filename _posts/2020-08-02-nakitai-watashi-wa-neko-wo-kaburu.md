@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "Nakitai Watashi wa Neko wo Kaburu"
-comments: true
-author: "Dreanor"
+img: summer2020/whisker.jpg
 tags: [Drama, Magic, Romance]
 ---
-
-![img](..\assets\summer2020\whisker.jpg)
 
 Also known as A Whisker Away, is a story about Muge trying to get Kento's attention. Things obviously don't go as well as planned. At some point she got the power to turn herself into a cat and visits Kento and cuddles with him in her cat form.
 The romance was clearly one sided for almost the entire movie until the Kento suddenly realized he loved her all along because he likes her smell and it came out of fucking nowhere.
@@ -19,5 +16,5 @@ There might be a lot to rant about but I still liked it. 8/10
 
 ---
 
-[![kitsu](..\assets\kitsu.png)](https://kitsu.io/anime/nakitai-watashi-wa-neko-wo-kaburu)[![mal](..\assets\mal.ico)](https://myanimelist.net/anime/41168/Nakitai_Watashi_wa_Neko_wo_Kaburu)  
+[![kitsu](..\assets\img\kitsu.png)](https://kitsu.io/anime/nakitai-watashi-wa-neko-wo-kaburu)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/41168/Nakitai_Watashi_wa_Neko_wo_Kaburu)  
 Official Site: [https://nakineko-movie.com/](https://nakineko-movie.com/)  

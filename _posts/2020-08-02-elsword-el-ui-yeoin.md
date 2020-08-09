@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "Elsword: El-ui Yeoin"
-comments: true
-author: "Dreanor"
+img: posts/elsword_el_ui_yeoin.jpg
 tags: [Action, Fantasy]
 ---
-
-![img](..\assets\posts\elsword_el_ui_yeoin.jpg)
 
 Uff, one of the few korean ones, it really sounds weird listening to it after so long. What the hell is even going on? The story is just garbage and not worth watching for, the only redeeming point I see in this is how good the art looks.
 Seems like that is the only thing Korea can do right.  
@@ -19,5 +16,5 @@ Makes no fucking sense 3/10
 
 ---
 
-[![kitsu](..\assets\kitsu.png)](https://kitsu.io/anime/elsword-el-lady)[![mal](..\assets\mal.ico)](https://myanimelist.net/anime/32613/Elsword__El-ui_Yeoin)  
+[![kitsu](..\assets\img\kitsu.png)](https://kitsu.io/anime/elsword-el-lady)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/32613/Elsword__El-ui_Yeoin)  
 Official Site: [http://elsword.nexon.com/](http://elsword.nexon.com/)  
