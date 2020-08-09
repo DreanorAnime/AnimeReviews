@@ -12,7 +12,7 @@ I am getting tired of people going on the verge of death, just to come back agai
 
 This time around Sesshomaru gets incredibly strong and has a almost cheat like weapon that he can call his own. Later we even get to see Sesshomaru's mother while he overcomes a trial for his new weapon. 
 
-To be honest, the main series had too many fillers and dragged everything out, here we get a conclusion to the long fight against Naraku and a satisfying ending.
+To be honest, the main series had too many fillers and dragged everything out, here we get a conclusion to the long fight against Naraku and a satisfying ending. Also not to forget, after almost 200 episodes of butt touching, Sango gave in and had children with Miroku
    
 Why even watch the original series if you get everything compact in 26 episodes? 8/10
 
