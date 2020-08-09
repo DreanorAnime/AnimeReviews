@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "About"
-author: "Dreanor"
+img: best_girl.jpg
 permalink: /about/
 ---
-
-![Holo](..\assets\best_girl.jpg)
 
 This blog mostly will be about short recaps/reviews of everything that aired each season. I watched over 2800 different anime at this point and I'll likely never stop.
 

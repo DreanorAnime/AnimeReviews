@@ -4198,37 +4198,6 @@ cite {
   background-color: #1c1c1c;
 }
 
-.social_footer {
-  padding: 3rem 0;
-  list-style: none;
-  margin: 0;
-  text-align: center;
-  border-bottom: 1px solid #333333;
-}
-
-.social_footer li {
-  display: inline-block;
-  margin-left: 0.5rem;
-}
-
-.social_footer a {
-  color: #7b7b7b;
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  margin: 0.3rem 0;
-  text-decoration: none;
-  font-size: 1.75rem;
-  -webkit-border-radius: 0.3rem;
-          border-radius: 0.3rem;
-  background-color: #262626;
-  -webkit-transition: all .35s ease-in-out;
-  transition: all .35s ease-in-out;
-}
-
-.social_footer a:hover {
-  background-color: #c0334a;
-  color: #ffffff;
-}
 
 .copyright {
   padding: 1rem 0;
