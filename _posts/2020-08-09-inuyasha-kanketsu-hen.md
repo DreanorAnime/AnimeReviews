@@ -9,7 +9,10 @@ tags: [Action, Adventure, Comedy, Historical, Demons, Supernatural, Magic, Roman
 Finally we entered the era of the glorious 16:9 format. 
 
 I am getting tired of people going on the verge of death, just to come back again, why can't they just off people without all the bullshit like how Kagura died even though it was very late into the entire series.
-Sesshomaru got even stronger with his almost cheat like weapon. It is really nice to see Sesshomaru's mother. Things are getting more interesting and finish up what was left in the main series.
+
+This time around Sesshomaru gets incredibly strong and has a almost cheat like weapon that he can call his own. Later we even get to see Sesshomaru's mother while he overcomes a trial for his new weapon. 
+
+To be honest, the main series had too many fillers and dragged everything out, here we get a conclusion to the long fight against Naraku and a satisfying ending.
    
 Why even watch the original series if you get everything compact in 26 episodes? 8/10
 
