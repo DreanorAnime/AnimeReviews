@@ -6,7 +6,7 @@ tags: [Drama, Magic, Romance]
 ---
 
 Also known as A Whisker Away, is a story about Muge trying to get Kento's attention. Things obviously don't go as well as planned. At some point she got the power to turn herself into a cat and visits Kento and cuddles with him in her cat form.
-The romance was clearly one sided for almost the entire movie until the Kento suddenly realized he loved her all along because he likes her smell and it came out of fucking nowhere.
+The romance was clearly one sided for almost the entire movie until Kento suddenly realized he loved her all along because he likes her smell and it came out of fucking nowhere.
 
 Her mom left to go ride the cock carousel and she got a new mom who was genuinely interested in her wellbeing. The problem was that the initial rejection left her stunted and unable to form relationships, which is why she puts on a mask all the time to avoid dealing with it and treats everyone like they're a scarecrow. 
 
