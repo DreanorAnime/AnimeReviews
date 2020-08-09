@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nakitai Watashi wa Neko wo Kaburu"
-img: summer2020/whisker.jpg
+img: posts/whisker.jpg
 tags: [Drama, Magic, Romance]
 ---
 
