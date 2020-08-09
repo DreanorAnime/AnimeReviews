@@ -4039,6 +4039,7 @@ cite {
   font-size: 0.9rem;
   text-transform: uppercase;
   margin: 0 0 1rem 0;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000; 
 }
 
 .chapters .chapter_inner .chapter_number::after {
@@ -4731,6 +4732,7 @@ cite {
     font-size: 1.35rem;
     line-height: 2rem;
     font-style: italic;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000; 
   }
   .chapters .chapter_inner .chapter_number {
     font-size: 0.7rem;
