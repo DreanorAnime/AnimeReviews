@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Overview"
+img: best_girl.jpg
 permalink: /overview/
 ---
 
