@@ -23,7 +23,7 @@ permalink: /tags/
 <!--  lists all posts corresponding to specific tag...-->
     {% for post in site.tags[this_word] %}{% if post.title != null %}
     <div class="tag_list">
-        <span><a href="https://dreanoranime.github.io/AnimeReviews/{{ post.url }}">{{ post.title }}</a></span>
+        <span><a href="https://dreanoranime.github.io/AnimeReviews{{ post.url }}">{{ post.title }}</a></span>
         <small><span>{{ post.date | date_to_string }}</span></small>
     </div>
     {% endif %}{% endfor %}
