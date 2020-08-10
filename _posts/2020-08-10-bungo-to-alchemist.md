@@ -9,7 +9,7 @@ It feels like watching gachashit in anime form.
 
 The concept doesn't seem bad, authors are getting summoned and go into books to rewrite the story. But it is just way too gay to watch and doesn't deliver on a interesting story.
 
-Tihs is not really my cup of tea, it seems to be better suited for the fujo crowd. Corona-Chan also nuked the anime with delays. The only thing I will take away from this is that the bandit story is based and shows that woman lead to evil, you should not simp for them, even if it is for pussy.
+This is not really my cup of tea, it seems to be better suited for the fujo crowd. Corona-Chan also nuked the anime with delays. The only thing I will take away from this is that the bandit story is based and shows that woman lead to evil, you should not simp for them, even if it is for pussy.
    
 Fujoshit with gachashit 3/10
 
