@@ -33,10 +33,14 @@ plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-
+  
+plugins:
+  - jekyll-feed
+  
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
