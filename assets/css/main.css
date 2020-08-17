@@ -4112,7 +4112,6 @@ cite {
           border-radius: 2.5rem;
   border: none;
   outline: none;
-  position: absolute;
   top: 33px;
   right: 0;
   -webkit-transition: background .35s ease-in-out;
