@@ -2,7 +2,7 @@
 layout: post
 title:  "Boku no Hero Academia the Movie 2: Heroes:Rising"
 img: posts/boku_no_hero_movie2.jpg
-tags: [Action, Comedy, School, Shounen, Super Power]
+tags: [Action, Comedy, School, Shounen, Super Power, Boku no Hero Academia]
 ---
 
 Oh boy, the movie seems to be getting fucked with shit reviews because of tranny snowflakes. Let's see how it really is!
