@@ -5,6 +5,10 @@ img: posts/bungo_to_alchemist.jpg
 tags: [Action, Adventure, Fantasy]
 ---
 
+## Synopsis
+>You are in a world where you can meet famous Japanese historical writers. With a party composed of other writers, you delve into tainted books to purify them, unlock secrets, and gain new allies.
+
+## Review
 It feels like watching gachashit in anime form.
 
 The concept doesn't seem bad, authors are getting summoned and go into books to rewrite the story. But it is just way too gay to watch and doesn't deliver on a interesting story.
