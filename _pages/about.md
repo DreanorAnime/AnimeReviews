@@ -9,9 +9,9 @@ This blog mostly will be about short recaps/reviews of everything that aired eac
 
 I used [MyAnimeList](https://myanimelist.net/profile/dreanor) in the past but ever since they fucked up their API, I switched over to [Kitsu](https://kitsu.io/users/Dreanor/) with automatic sync to MAL. The main issue with MAL is that it is no longer supported by [Taiga](https://taiga.moe/) due to MAL's shit tier API.
 
-Anime related tools that I created [@DreanorAnime](https://github.com/DreanorAnime):
-- [Kitsu Seasons](https://github.com/DreanorAnime/Kitsu-Seasons)
-- [Automatic List backup](https://github.com/DreanorAnime/Scripts/blob/master/src/AnimeMangaListExport.sh)
+Anime related tools that I created [@DreanorAnime](https://github.com/DreanorAnime):  
+[Kitsu Seasons](https://github.com/DreanorAnime/Kitsu-Seasons)  
+[Automatic List backup](https://github.com/DreanorAnime/Scripts/blob/master/src/AnimeMangaListExport.sh)
 
 **Best anime that I watched per year**  
 [2019 - Sewayaki Kitsune no Senko-san](https://kitsu.io/anime/sewayaki-kitsune-no-senko-san)  
