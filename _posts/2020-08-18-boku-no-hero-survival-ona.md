@@ -21,4 +21,4 @@ The only redeeming point for me is the BGM which is pretty good across the serie
 ---
 
 [![kitsu](..\assets\img\kitsu.png)](https://kitsu.io/anime/boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/42603/Boku_no_Hero_Academia__Ikinokore_Kesshi_no_Survival_Kunren)  
-Official Site: [https://heroaca.com/originalanimationep/](https://heroaca.com/originalanimationep/)  
+Official Site: [https://heroaca.com/originalanimationep/](https://heroaca.com/originalanimationep/)

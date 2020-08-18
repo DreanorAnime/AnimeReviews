@@ -5,6 +5,12 @@ img: posts/whisker.jpg
 tags: [Drama, Magic, Romance]
 ---
 
+## Synopsis
+>Miyo "Muge" Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human. 
+>
+>(Source: ANN)
+
+## Review
 Also known as A Whisker Away, is a story about Muge trying to get Kento's attention. Things obviously don't go as well as planned. At some point she got the power to turn herself into a cat and visits Kento and cuddles with him in her cat form.
 The romance was clearly one sided for almost the entire movie until Kento suddenly realized he loved her all along because he likes her smell and it came out of fucking nowhere.
 
@@ -17,4 +23,4 @@ There might be a lot to rant about but I still liked it. 8/10
 ---
 
 [![kitsu](..\assets\img\kitsu.png)](https://kitsu.io/anime/nakitai-watashi-wa-neko-wo-kaburu)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/41168/Nakitai_Watashi_wa_Neko_wo_Kaburu)  
-Official Site: [https://nakineko-movie.com/](https://nakineko-movie.com/)  
+Official Site: [https://nakineko-movie.com/](https://nakineko-movie.com/)
