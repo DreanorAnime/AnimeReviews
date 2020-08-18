@@ -9,7 +9,7 @@ url: "https://dreanoranime.github.io" # the base hostname & protocol for your si
 # Banner settings
 video: holo.mp4
 banner-title: Hello fellow degenerate
-banner-desc: *Holo breathing noises intensify*
+banner-desc: #
 
 # Author settings
 author-pic: face.png
