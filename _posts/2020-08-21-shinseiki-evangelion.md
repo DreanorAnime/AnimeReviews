@@ -2,6 +2,7 @@
 layout: post
 title: "Shinseiki Evangelion"
 img: posts/evangelion.jpg 
+date: 2020-08-21 14:54:00 +0200
 tags: [Action, Dementia, Drama, Mecha, Psychological, Sci-Fi, Evangelion]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Shinseiki Evangelion Gekijouban: Shi to Shinsei"
 img: posts/evangelion_death_and_rebirth.jpg 
+date: 2020-08-21 16:14:00 +0200
 tags: [Drama, Mecha, Psychological, Sci-Fi, Evangelion]
 ---
 
