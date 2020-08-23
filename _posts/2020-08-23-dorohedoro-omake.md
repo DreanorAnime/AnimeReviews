@@ -2,6 +2,7 @@
 layout: post
 title: "Dorohedoro: Ma no Omake"
 img: posts/dorohedoro_omake.jpg 
+date: 2020-08-23 22:50:00 +0200
 tags: [Action, Comedy, Horror, Fantasy, Seinen]
 ---
 

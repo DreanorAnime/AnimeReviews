@@ -2,7 +2,8 @@
 layout: post
 title: "Frame Arms Girl"
 img: posts/frame_arms_girl.jpg 
-tags: [Action, Sci-Fi, Slice of Life, Mecha]
+date: 2020-08-23 23:00:00 +0200
+tags: [Action, Sci-Fi, Slice of Life, Mecha, Frame Arms Girl]
 ---
 
 ## Synopsis
