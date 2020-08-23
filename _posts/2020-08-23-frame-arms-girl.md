@@ -17,7 +17,7 @@ The battles do seem like straight out of a gacha game with their starting voicel
 
 The OP is really upbeat and fits to the series. All FAGs are indeed fags as they can be seen having yuri scenes left and right.
    
-Cute slice of life show with cute tiny robot girls. 7/10
+Cute slice of life show with cute tiny robot girls. 6/10
 
 ---
 
