@@ -15,7 +15,7 @@ Stay away from the fanbase, they are all cucks pretending that this is a masterp
 
 A friend of mine recommended this to me, I came for the fucked up story but was disappointed in the end. Nothing is ever explained and all the characters are shallow as fuck. Don't pretend this is a masterpiece or something else that it isn't. Lain throws in many concepts that just don't make any sense or that are enjoyable to watch.
 
-If you need to explain shit outside of the anime for it to make sense, it has failed in my books here is a website that explains some things about Lain http://www.cjas.org/~leng/lain.htm if you want to invest more time into this mess.
+If you need to explain shit outside of the anime for it to make sense, it has failed in my books here is a website that explains some things about Lain [http://www.cjas.org/~leng/lain.htm](http://www.cjas.org/~leng/lain.htm) if you want to invest more time into this mess.
    
 Waste of time and boring. 2/10
 
