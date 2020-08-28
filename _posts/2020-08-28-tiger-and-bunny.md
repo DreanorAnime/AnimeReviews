@@ -2,7 +2,7 @@
 layout: post
 title: "Tiger & Bunny"
 img: posts/tiger_and_bunny.jpg 
-tags: [Action, Mystery, Comedy, Super Power]
+tags: [Action, Mystery, Comedy, Super Power, Tiger and Bunny]
 ---
 
 ## Synopsis
