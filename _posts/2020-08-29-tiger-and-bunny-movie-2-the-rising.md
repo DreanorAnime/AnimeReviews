@@ -2,7 +2,7 @@
 layout: post
 title: "Tiger & Bunny Movie 2: The Rising"
 img: posts/tiger_and_bunny_movie_2.jpg 
-date: 2020-08-21 21:00:00 +0200
+date: 2020-08-29 21:00:00 +0200
 tags: [Action, Mystery, Comedy, Super Power, Tiger and Bunny]
 ---
 
