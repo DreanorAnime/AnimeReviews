@@ -2,6 +2,7 @@
 layout: post
 title: "Wo Kai Dongwuyuan Naxie Nian"
 img: posts/wo_kai_dongwuyuan_naxie_nian.jpg 
+date: 2020-08-30 23:00:00 +0200
 tags: [Slice of Life, Comedy]
 ---
 
