@@ -11,7 +11,7 @@ tags: [Action, Adventure, Fantasy, Shounen, Super Power, Hunter x Hunter]
 ## Review
 Hold on a minute. His father left him when he was 12? Did he already fuck soneone as a 11 year old? How even?!
 
-This is pretty good for a Shounen and it got me hooked right from the start. Killua is quite mysterious and I can't wait to watch more of it.
+This is pretty good for a Shounen and it got me hooked right from the start. It shows a good introduction to all the characters and what Hunters are about. Killua quite mysterious and a little bit on the insane side of things. I can't wait to watch more and see in which ways Killua will obliterate his enemies.
    
 Really interesting. 8/10
 
