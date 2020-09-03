@@ -12,8 +12,10 @@ tags: [Action, Adventure, Fantasy, Shounen, Super Power, Hunter x Hunter]
 The Hunters are on their way to Killua, the story picks right off where the last arc ended. Imagine owning and living on a mountain.
 
 His entire family is quite quirky, the mom looks like a robot, his brother is a fat whiny boy, the sister looks alright and his father seems to plot something. The entire staff is overpowered and they got big ass heavy doors.
+
+Episode 26 is pretty worthless, that recap was way too soon tbh.
    
-Nice to see Killua's family and how he acts towards everyone 8/10
+Nice to see Killua's family and how he acts towards everyone 7/10
 
 ---
 
