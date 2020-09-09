@@ -24,7 +24,7 @@ layout: default
         <div class="post_tag">
           <span>Tags:</span>
           {% for tag in page.tags %}
-          <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>
+          <a href="{{site.baseurl}}/tags#{{tag | replace: " ". "-" }}" class="tag">{{ tag }}</a>
           {% endfor %}
         </div>
       </footer>
