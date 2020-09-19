@@ -11,7 +11,7 @@ tags: [Action, Adventure, Fantasy, Shounen, Super Power, Hunter x Hunter]
 ## Review
 Now we finally get to see what Greed Island is all about, the last arc teased it a little bit before going down the Phantom Troupe story.
 
-Greed Island is pretty interesting, a island in the real world where people get teleported to and collect trading cards. The 57 year old loli is a nice addition as a master. This arcs main villian is pretty dumb, the bomber might have a leathal ability but it feels just lackluster, Razor or another GM would have been way better to end things.
+Greed Island is pretty interesting, a island in the real world where people get teleported to and collect trading cards. The 57 year old loli is a nice addition as a master. This arcs main villain is pretty dumb, the bomber might have a leathal ability but it feels just lackluster, Razor or another GM would have been way better to end things.
 
 Hisoka is actually quite decent if he gets into his team spirit.
    

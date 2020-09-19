@@ -14,7 +14,7 @@ This recap does a good job in combining the first two episodes with new scenes. 
 
 It is nice to see more of Tigers wife when she was still alive. Normally recaps suck but this one seems actually worth it, I'd even say it is better to start with this movie and then jump into the series with episode 3. The characters seem to act more natural over the course of the movie.
 
-Apart from that they just fight one new villian, but the fight drags out way too long for how silly and useless he is.
+Apart from that they just fight one new villain, but the fight drags out way too long for how silly and useless he is.
    
 A good alternative way to start the series 6/10
 

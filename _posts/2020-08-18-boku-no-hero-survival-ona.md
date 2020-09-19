@@ -13,7 +13,7 @@ tags: [Action, Comedy, Super Power, School, Shounen, Boku no Hero Academia]
 ## Review
 To be honest, I can't see the point of this ONA. The students of Class 1-A are sent on a training course, where they have to safe a dummy. In the beginning they said it is a race against time, but oh fuck it let's just casually walk in.
 
-In the main series they fight against villians and have amazing fights and here they struggle and get scared of a collapsed building, wtf did I just watch? I want my time back.
+In the main series they fight against villains and have amazing fights and here they struggle and get scared of a collapsed building, wtf did I just watch? I want my time back.
 
    
 The only redeeming point for me is the BGM which is pretty good across the series. 4/10
