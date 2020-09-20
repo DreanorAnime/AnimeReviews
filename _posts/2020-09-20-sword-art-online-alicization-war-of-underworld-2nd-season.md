@@ -2,6 +2,7 @@
 layout: post
 title: "Sword Art Online: Alicization - War of Underworld 2nd Season"
 img: posts/sao_alicization_2nd_season.jpg 
+date: 2020-09-20 23:14:00
 tags: [Action, Game, Adventure, Romance, Fantasy]
 ---
 
