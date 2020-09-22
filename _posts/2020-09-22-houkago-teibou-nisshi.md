@@ -18,7 +18,7 @@ This is pretty comfy to watch and pass time, Hina is scared about all the slimy 
 
 The show spawned some nice memes and this sums up each episode pretty good.
 
-<img src="d..\assets\img\posts\houkago_teibou_nisshi_episodes.jpg" alt="episodes" width="100%"/>
+<img src="..\assets\img\posts\houkago_teibou_nisshi_episodes.jpg" alt="episodes" width="100%"/>
 Comfy fishing 6/10
 
 ---
