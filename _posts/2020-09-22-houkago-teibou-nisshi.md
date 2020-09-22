@@ -17,8 +17,8 @@ Cute girls go fishing.
 This is pretty comfy to watch and pass time, Hina is scared about all the slimy ocean creatures. Sensei is a bitch and just as lazy as the president. Fishing is gacha for drunken dads.
 
 The show spawned some nice memes and this sums up each episode pretty good.
-![Episodes](..\assets\img\posts\houkago_teibou_nisshi_episodes.png)
-   
+
+<img src="d..\assets\img\posts\houkago_teibou_nisshi_episodes.jpg" alt="episodes" width="100%"/>
 Comfy fishing 6/10
 
 ---
