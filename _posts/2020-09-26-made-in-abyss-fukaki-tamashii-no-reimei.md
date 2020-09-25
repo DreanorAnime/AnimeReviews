@@ -2,7 +2,7 @@
 layout: post
 title: "Made in Abyss: Fukaki Tamashii no Reimei"
 img: posts/made_in_abyss_fukaki.jpg 
-date: 2020-09-26 00:30:00 +0200
+date: 2020-09-26 02:30:00 +0200
 tags: [Adventure, Drama, Fantasy, Mystery, Sci-Fi]
 ---
 
