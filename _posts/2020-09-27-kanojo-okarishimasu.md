@@ -18,6 +18,8 @@ Girlfriend broke up with him, making him seek out a rental girlfriend in the fir
 Imagine getting the same hooker all the time and then falling in love with her, all the while not having sex or physical contact but still paying. Kazuya is the ultimate simp. Also topkek on them living next to each other. Kazuya is pretty pathetic clinging on to the first rental girlfriend while still fapping to his ex.
 
 Might be one of the trashiest shows this season. At least the grandmothers are cute for acting like teens and having sleepovers. I can't even begin to imagine the smell of his room full of coom.
+
+Ruka-chan is the best girl and Kazuya should stick his dick in her and not the other whores.
   
 Overall not really enjoyable and cringe at times 5/10
 
