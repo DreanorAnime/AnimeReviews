@@ -3,6 +3,7 @@ layout: post
 title: "RIP HorribleSubs"
 img: posts/horrible.jpg 
 date: 2020-10-03 02:00:00 +0000
+tags: [News]
 ---
 
 I never thought this day would come so soon RIP HorribleSubs and RIP extremely fast rips. 
