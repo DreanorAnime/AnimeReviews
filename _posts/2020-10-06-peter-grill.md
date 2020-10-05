@@ -12,7 +12,7 @@ tags: [Harem, Comedy, Ecchi, Fantasy]
 >Unfortunately, this dream quickly breaks apart as news of his grand victory spreads among the womenfolk of other races—ogres, orcs, elves, and others—some of them even vying for his seed to produce offspring blessed with his might. To avoid betraying the trust of his cherished Luvelia and causing a scandal, Peter strives to avoid other women's salacious advances. However, accomplishing such a feat with so many alluring women on his trail is easier said than done.
 
 ## Review
-Everyone is a semen deamon and wants to suck his juice.
+Everyone is a semen demon and wants to suck his juice.
 
 He was simping for 2 years while waiting to become the strongest guy alive all just to fuck the oblivious virgin gf. He fucks the ogre sisters, the elf and the pig day and night while never even touched his girlfriend. All his girlfriend ever got is tentacle raped.
 
