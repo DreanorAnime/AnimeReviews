@@ -13,7 +13,7 @@ tags: [Action, Sci-Fi, Super Power]
 >Toaru Kagaku no Railgun T brings back the Tokiwadai Ace and her friends as they dive deeper into the dark side of Academy City. From terrorist attacks to ruthless underground projects, anything is possible in this city.
 
 ## Review
-Who the heck thinks "sissy" is the right word? Are they fucking retarded? Based and honorifics pilled subs are better.
+Who the fuck thinks "sissy" is the right word? Are they fucking retarded? Based and honorifics pilled subs are better.
 
 The first half was somewhat boring but learning about Dolly was worth it. Loli versions of current characters are always good to see, especially when they are cute. The seoncd half was quite interesting also Touma growing dragons as his arm looked badass. Still kinda weird how this happened.
 
