@@ -2,6 +2,7 @@
 layout: post
 title: "Kabukichou Sherlock OVA"
 img: posts/kabukichou_ova.jpg 
+date: 2020-10-20 18:20:00 +0000
 tags: [Mystery, Comedy, Drama]
 ---
 
