@@ -2,7 +2,7 @@
 layout: post
 title: "Dragon's Dogma"
 img: posts/dragons_dogma.jpg 
-date: 2020-10-20 18:20:00 +0000
+date: 2020-10-20 23:50:00 +0000
 tags: [Action, Adventure, Fantasy]
 ---
 
