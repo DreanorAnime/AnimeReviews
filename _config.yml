@@ -7,7 +7,7 @@ baseurl: "/AnimeReviews" # the subpath of your site, e.g. /blog
 url: "https://dreanoranime.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: test.mp4
+video: holo.mp4
 banner-title: Hello fellow degenerate
 banner-desc: #
 
