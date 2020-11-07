@@ -15,13 +15,13 @@ tags: [Action, Adventure, Fantasy, Shounen, Super Power, Hunter x Hunter]
 This is a meta post combining all the story arcs into one.
 
 **Story Arcs**  
-[Hunter Exam](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-hunter-exam-arc) - 8/10  
-[Zoldyck Family](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-zoldyck-family-arc) - 7/10  
-[Heavens Arena](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-heavens-arena-arc) - 8/10  
-[Yorknew City](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-yorknew-city-arc) - 9/10  
-[Greed Island](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-greed-island-arc) - 9/10  
-[Chimera Ant](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-chimera-ant-arc) - 9/10  
-[13th Hunter Chairman Election](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-13th-hunter-chairman-election-arc) - 8/10  
+[01-21 Hunter Exam](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-hunter-exam-arc) - 8/10  
+[22-26 Zoldyck Family](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-zoldyck-family-arc) - 7/10  
+[27-36 Heavens Arena](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-heavens-arena-arc) - 8/10  
+[37-58 Yorknew City](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-yorknew-city-arc) - 9/10  
+[59-75 Greed Island](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-greed-island-arc) - 9/10  
+[76-136 Chimera Ant](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-chimera-ant-arc) - 9/10  
+[137-148 13th Hunter Chairman Election](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-13th-hunter-chairman-election-arc) - 8/10  
 
 **Movies**  
 [Hunter x Hunter Movie 1: Phantom Rouge](https://dreanoranime.github.io/AnimeReviews/hunter-x-hunter-phantom-rouge) - 4/10  
