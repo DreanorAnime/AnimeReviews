@@ -3,7 +3,7 @@ layout: post
 title: "Hunter x Hunter Movie 1: Phantom Rouge"
 img: posts/hunter_x_hunter_movie_1.jpg 
 date: 2020-11-06 19:53:00 +0000
-tags: [Action, Adventure, Fantasy, Shounen, Super Power]
+tags: [Action, Adventure, Fantasy, Shounen, Super Power, Hunter x Hunter]
 ---
 
 ## Synopsis

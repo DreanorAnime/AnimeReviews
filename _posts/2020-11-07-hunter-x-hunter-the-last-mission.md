@@ -3,7 +3,7 @@ layout: post
 title: "Hunter x Hunter Movie 2: The Last Mission"
 img: posts/hunter_x_hunter_movie_2.jpg 
 date: 2020-11-07 23:50:00 +0000
-tags: [Action, Adventure, Super Power, Fantasy, Shounen]
+tags: [Action, Adventure, Super Power, Fantasy, Shounen, Hunter x Hunter]
 ---
 
 ## Synopsis
