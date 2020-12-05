@@ -20,5 +20,5 @@ A classic that still holds up to this day. 9/10
 
 ---
 
-[![kitsu](..\assets\img\kitsu.png)](kitsu)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/164/Mononoke_Hime)  
+[![kitsu](..\assets\img\kitsu.png)](https://kitsu.io/anime/princess-mononoke)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/164/Mononoke_Hime)  
 Official Site: [http://www.ghibli.jp/diary_m/mononoke.html](http://www.ghibli.jp/diary_m/mononoke.html)
