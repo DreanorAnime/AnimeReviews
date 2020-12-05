@@ -2,7 +2,7 @@
 layout: post
 title: "Initial D Second Stage"
 img: posts/initial_d_second_stage.jpg 
-tags: [Action, Cars, Drama, Seinen, Sports]
+tags: [Action, Cars, Drama, Seinen, Sports, Initial D]
 ---
 
 ## Synopsis
