@@ -2,6 +2,7 @@
 layout: post
 title: "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darouka III"
 img: posts/danmachi3.jpg 
+date: 2020-12-19 17:00:00 +0000
 tags: [Action, Adventure, Comedy, Romance, Fantasy]
 ---
 
