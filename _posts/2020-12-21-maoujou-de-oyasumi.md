@@ -14,7 +14,7 @@ Opening seems fun. Lots of adorable demons and a sleepyhead princess as well.
 
 Every episode shows multiple different forms of going to sleep or creating beds. Very relaxing to watch and requires no brain to get into.
    
-Sayuuu 7/10
+Suya~ 7/10
 
 ---
 
