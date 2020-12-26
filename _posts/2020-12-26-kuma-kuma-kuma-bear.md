@@ -11,7 +11,7 @@ tags: [Adventure, Comedy, Fantasy]
 ## Review
 One of my all time favorite manga finally got a anime adaption. Let's see if it holds up to the original.
 
-Watch Order should be 2 > 3 > 1 > 4... everything else is fine. The opening is also not that good. Definitly skip the first episode to get more enjoyment out of it and get no spoilers. They really failed with that one.
+Watch Order should be 2 > 3 > 1 > 4... everything else is fine. They really failed with that one. The opening is also not that good. 
 
 Just as cite as I imagined it would be. Good work on the animation and staying true to the manga. Anime Yuna is good at grooming like her manga counterpart.
    
