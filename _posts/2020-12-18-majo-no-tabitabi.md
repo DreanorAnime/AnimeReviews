@@ -18,7 +18,7 @@ Good journey, I like how everywhere she goes people fall into misery and she let
 
 Every episode is a story in of itself based on a story. The format works pretty well with a travelling witch. 
    
-Cute travelling witch 8/10
+Cute travelling witch 9/10
 
 ---
 

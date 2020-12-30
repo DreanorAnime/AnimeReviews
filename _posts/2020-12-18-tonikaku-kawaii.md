@@ -20,7 +20,7 @@ Dare I say anime of the season? I do! This will either drive young people to mar
 
 Nice to see Hayate show up at the festival as well, seems interesting that the author has boths of his creations in one world.
    
-Kawaii UwU 9/10
+Kawaii UwU 10/10
 
 ---
 

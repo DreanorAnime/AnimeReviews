@@ -15,7 +15,7 @@ Watch Order should be 2 > 3 > 1 > 4... everything else is fine. They really fail
 
 Just as cite as I imagined it would be. Good work on the animation and staying true to the manga. Anime Yuna is good at grooming like her manga counterpart.
    
-Good adaption 9/10
+Good adaption 10/10
 
 ---
 
