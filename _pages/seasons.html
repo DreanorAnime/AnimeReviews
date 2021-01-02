@@ -1,0 +1,24 @@
+---
+layout: default
+title: Seasons
+permalink: /seasons/
+---
+
+<main class="post_content">
+  <section class="recent_box">
+    <div class="post_wrapper">
+      <h2 class="recent_title">Seasons</h2>
+      <div class="recent_list">
+        {% for post in site.tags.Season %}
+          {% if tag.title %}
+            <a href="{{ post.url | prepend: site.baseurl }}"
+              class="recent_item"
+              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
+                <span>{{ post.title }}</span>
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section> <!-- End Section Recent Box -->
+</main>
