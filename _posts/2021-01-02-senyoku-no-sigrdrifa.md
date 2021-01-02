@@ -2,7 +2,7 @@
 layout: post
 title: "Senyoku no Sigrdrifa"
 img: posts/sigururi.jpg 
-date: 2021-01-02 01:20:00 +0200
+date: 2021-01-02 01:20:00 +0000
 tags: [Action, Military]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Taisou Zamurai"
-img: posts/taiso_zamurai.jpg 
+title: "Taisou Samurai"
+img: posts/taiso_samurai.jpg 
 date: 2021-01-01 19:20:00 +0000
 tags: [Sports]
 ---
