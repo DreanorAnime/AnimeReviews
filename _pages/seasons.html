@@ -9,14 +9,16 @@ permalink: /seasons/
     <div class="post_wrapper">
       <h2 class="recent_title">Seasons</h2>
       <div class="recent_list">
-        {% for post in site.tags.Season %}
-          {% if tag.title %}
+        {% for tag in site.tags %}
+		 {% for post in tag[1] %}
+		  {% if tag.title == "Season" %}
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
               style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
                 <span>{{ post.title }}</span>
             </a>
-          {% endif %}
+			 {% endif %}
+			  {% endfor %}
         {% endfor %}
       </div>
     </div>
