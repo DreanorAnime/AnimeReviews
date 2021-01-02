@@ -4,22 +4,19 @@ title: Seasons
 permalink: /seasons/
 ---
 
+{% include header.html %}
+
 <main class="post_content">
   <section class="recent_box">
     <div class="post_wrapper">
       <h2 class="recent_title">Seasons</h2>
       <div class="recent_list">
         {% for post in site.tags.Season %}
-		 <h2>{{ post.title }}</h2>
-		 <h2>{{ post.url }}</h2>
-
-		  
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
               style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
                 <span>{{ post.title }}</span>
             </a>
-		
         {% endfor %}
       </div>
     </div>
