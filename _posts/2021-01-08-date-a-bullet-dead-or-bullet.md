@@ -2,7 +2,7 @@
 layout: post
 title: "Date A Bullet: Dead or Bullet"
 img: posts/date_a_bullet_dead_or_bullet.jpg 
-tags: [Sci-Fi]
+tags: [Sci-Fi, Date A Bullet]
 ---
 
 ## Synopsis

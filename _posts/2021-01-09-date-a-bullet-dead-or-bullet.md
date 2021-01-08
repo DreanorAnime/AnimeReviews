@@ -3,7 +3,7 @@ layout: post
 title: "Date A Bullet: Nightmare or Queen"
 img: posts/date_a_bullet_nightmare_or_queen.jpg 
 date: 2021-01-09 00:10:00 +0000
-tags: [Sci-Fi]
+tags: [Sci-Fi, Date A Bullet]
 ---
 
 ## Synopsis
