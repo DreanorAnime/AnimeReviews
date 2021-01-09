@@ -2,7 +2,7 @@
 layout: post
 title: "Black Clover Reincarnation Arc"
 img: posts/black_clover_reincarnation_arc.jpg 
-tags: [Action, Adventure, Fantasy]
+tags: [Action, Adventure, Fantasy, Black Clover]
 ---
 
 ## Synopsis
