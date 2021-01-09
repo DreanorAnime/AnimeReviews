@@ -31,7 +31,7 @@ All the Squads are out on training and at some point Secre gets kidnapped by the
 
 After killing people, throwing cities into chaos and doing other crimes they just get banished from the kingdom. Wtf are they even thinking? How about killing them insead of letting them go. This can go three ways now, they meet the devil and die, they meet the devil and join them or they get forgotten and will never be mentioned again.
 
-**Arcane Stage Mages**
+**Arcane Stage Mages**  
 Some more training is going on and the squads fight each other for the public entertainment. There are some recaps in the later episodes to drag it out, but having fillers is pretty normal for long running series. The next arc will finally have some big ass battles against the devil.
   
 Good arc like always 9/10
