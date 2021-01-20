@@ -23,7 +23,7 @@ Goerge is a chad, gets home and the first the he does is fuck his girlfriend. Ha
 
 Everything lived up for that dress in the end and they didn't even fully show it in one big shot. What a fucking waste.
    
-Overhyped because of sex and tranny 7/10
+Overhyped because of sex and tranny 6/10
 
 ---
 
