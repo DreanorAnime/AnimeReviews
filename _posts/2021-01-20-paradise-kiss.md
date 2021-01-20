@@ -21,7 +21,7 @@ High piched whaman is a whore. She looks retarded and probably got groomed by th
 
 Goerge is a chad, gets home and the first the he does is fuck his girlfriend. Having Isabella be a tranny is pretty pointless and serves no purpose for this show. You will never be a real woman. You have no womb, you have no ovaries, you have no eggs. You are a homosexual man twisted by drugs and surgery into a crude mockery of nature’s perfection.
 
-Everything lived up for that dress in the end and they didn't even fully show it in one big shot. What a fucking waste.
+Everything lived up for that dress in the end and they didn't even fully show it in one big shot. What a fucking waste. That faggot must like getting cucked, his dream girl got fucked by some faggot designer over and over again and he ends up marrying used goods.
    
 Overhyped because of sex and tranny 6/10
 
