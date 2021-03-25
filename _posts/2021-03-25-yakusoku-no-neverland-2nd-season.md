@@ -18,7 +18,7 @@ Last season was amazing, hopefully this continues. Also what is up with all thes
 
 Stupid children and their optimistic view on the world. Just fucking go and eradicate all demons instead of becoming buddy with the ones that eat you. In the end they made peace, instead of war how predictable.
 
-Would've been nice to see more despair and horror but nope, still fine for what it is. Old guy is based.
+Would've been nice to see more despair and horror but nope, still fine for what it is. Old guy is based. Also what the hell Isabella died in the manga and everything was way different, anime version is too soft.
    
 Blood instead of humans 8/10
 
