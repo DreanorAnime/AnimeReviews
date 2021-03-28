@@ -2,7 +2,7 @@
 layout: post
 title: "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
 img: posts/re_zero_2nd_part2.jpg 
-tags: [Psychological, Drama, Thriller, Fantasy, Re:Zero]
+tags: [Psychological, Drama, Thriller, Fantasy, Re Zero]
 date: 2021-03-28 04:25:00 +0000
 ---
 
