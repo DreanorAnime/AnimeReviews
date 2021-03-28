@@ -2,7 +2,7 @@
 layout: post
 title: "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
 img: posts/re_zero_2nd_season.jpg 
-tags: [Drama, Fantasy, Psychological, Thriller]
+tags: [Drama, Fantasy, Psychological, Thriller, Re:Zero]
 ---
 
 ## Synopsis
