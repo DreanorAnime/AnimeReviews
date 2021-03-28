@@ -16,7 +16,7 @@ Imagine having a fishcake penis.. wait what?!
 
 There is a 112 year old loli baba. FeelsWeirdMan they always eat what ever disease the patient has.
    
-It is fine for what it is 7/10
+It is fine for what it is 6/10
 
 ---
 
