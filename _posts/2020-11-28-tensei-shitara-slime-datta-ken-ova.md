@@ -3,7 +3,7 @@ layout: post
 title: "Tensei shitara Slime Datta Ken OVA 1-5"
 img: posts/tensei_slime_ova.jpg 
 date: 2020-11-28 23:00:00 +0000
-tags: [Fantasy, Shounen]
+tags: [Fantasy, Shounen, Ten Sura]
 ---
 
 ## Synopsis
