@@ -3,6 +3,7 @@ layout: post
 title: "Jujutsu Kaisen"
 img: posts/jujutsu_kaisen.jpg 
 tags: [Action, Demons, Supernatural, School, Shounen]
+date: 2021-04-04 18:00:00 +0000
 ---
 
 ## Synopsis
