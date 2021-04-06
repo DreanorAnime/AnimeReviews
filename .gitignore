@@ -4,3 +4,4 @@ _site
 node_modules/
 yarn.lock
 _*.md
+9999*.md
