@@ -5,7 +5,7 @@ img: best_girl.jpg
 permalink: /about/
 ---
 
-This blog mostly will be about short recaps/reviews of everything that aired each season. I watched over 2900 different anime at this point and I'll likely never stop.
+This blog mostly will be about short recaps/reviews of everything that aired each season. I watched over 3000 different anime at this point and I'll likely never stop.
 
 I used [MyAnimeList](https://myanimelist.net/profile/dreanor) in the past but ever since they fucked up their API, I switched over to [Kitsu](https://kitsu.io/users/Dreanor/) with automatic sync to MAL. The main issue with MAL is that it is no longer supported by [Taiga](https://taiga.moe/) due to MAL's shit tier API. Might be better by now but ehh.
 
@@ -23,6 +23,7 @@ Anime related tools that I created [@DreanorAnime](https://github.com/DreanorAni
 [2013 - Ookami to Koushinryou II](https://kitsu.io/anime/spice-and-wolf-ii)
 
 **Milestones**  
+[#3000 - Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime.php?id=40750)  
 [#2900 - Tensei shitara Slime Datta Ken OVA](https://myanimelist.net/anime/38793/Tensei_shitara_Slime_Datta_Ken_OVA)  
 [#2800 - Shironeko Project: Zero Chronicle](https://myanimelist.net/anime/38843/Shironeko_Project__Zero_Chronicle)  
 [#2700 - Bofuri](https://myanimelist.net/anime/38790/Itai_no_wa_Iya_nano_de_Bougyoryoku_ni_Kyokufuri_Shitai_to_Omoimasu)  
