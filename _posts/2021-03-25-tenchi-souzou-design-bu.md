@@ -2,7 +2,7 @@
 layout: post
 title: "Tenchi Souzou Design-bu"
 img: posts/tenchi_souzou.jpg 
-tags: [Slice of Life, Comedy, Fantasy, Seinen]
+tags: [Slice of Life, Comedy, Fantasy, Seinen, Tenchi Souzou Design-bu]
 date: 2021-03-25 17:25:00 +0000
 ---
 
