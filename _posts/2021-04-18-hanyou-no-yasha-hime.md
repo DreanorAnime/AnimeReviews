@@ -2,7 +2,7 @@
 layout: post
 title: "Hanyou no Yashahime: Sengoku Otogizoushi"
 img: posts/hanyou_yashahime.jpg 
-tags: [Action, Adventure, Comedy, Historical, Demons, Supernatural, Magic, Fantasy, Inuyasha]
+tags: [Action, Adventure, Comedy, Historical, Demons, Supernatural, Magic, Fantasy, InuYasha]
 date: 2021-04-18 03:35:00 +0000
 ---
 
