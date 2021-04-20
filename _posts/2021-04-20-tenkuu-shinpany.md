@@ -3,6 +3,7 @@ layout: post
 title: "Tenkuu Shinpan"
 img: posts/tenkuu_shinpan.jpg 
 tags: [Action, Mystery, Horror]
+date: 2021-04-20 19:50:00 +0000
 ---
 
 ## Synopsis
