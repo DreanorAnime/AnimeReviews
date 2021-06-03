@@ -13,7 +13,7 @@ The future sucks the movie.
 
 Cute cat. Shit ass story though, even for 6 minutes
    
-5/10
+meh 5/10
 
 ---
 
