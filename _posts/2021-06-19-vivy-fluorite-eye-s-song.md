@@ -3,6 +3,7 @@ layout: post
 title: "Vivy: Fluorite Eye's Song"
 img: posts/vivy.jpg 
 tags: [Action, Music, Sci-Fi, Thriller]
+date: 2021-06-19 00:30:00 +0000
 ---
 
 ## Synopsis
