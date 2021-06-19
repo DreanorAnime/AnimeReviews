@@ -13,9 +13,7 @@ tags: [Drama, Music, School, Shounen, Slice of Life]
 ## Review
 Boring to be honest.
 
-Music isn't that great and most of it sounds meh. This is not for me, story is somewhat decent but nothing special.
-
-That was one lackluster ending.
+Music isn't that great and most of it sounds meh. This is not for me, story is somewhat decent but nothing special. That was one lackluster ending.
    
 meh 4/10
 
