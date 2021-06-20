@@ -3,6 +3,7 @@ layout: post
 title: "Sentouin, Hakenshimasu!"
 img: posts/sentouin.jpg 
 tags: [Action, Comedy, Fantasy]
+date: 2021-06-20 20:00:00 +0000
 ---
 
 ## Synopsis

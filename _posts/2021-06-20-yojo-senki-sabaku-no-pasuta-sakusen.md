@@ -3,6 +3,7 @@ layout: post
 title: "Youjo Senki: Sabaku no Pasta Dai Sakusen"
 img: posts/youjo_senki_pasta.jpg 
 tags: [Action, Military, Magic]
+date: 2021-06-20 20:30:00 +0000
 ---
 
 ## Synopsis
