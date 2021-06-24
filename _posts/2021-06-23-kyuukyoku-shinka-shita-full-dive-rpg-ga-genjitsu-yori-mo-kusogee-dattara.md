@@ -17,7 +17,7 @@ Torture girl is best girl, but she barely gets any screen time. Kinda feels rush
 
 Open ending with more to come but probably not.
    
-Very generic with shitty as VR 6/10
+Very generic with shitty ass VR game 6/10
 
 ---
 
