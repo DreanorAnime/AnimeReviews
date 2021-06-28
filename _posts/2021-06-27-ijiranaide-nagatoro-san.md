@@ -19,5 +19,5 @@ Fuck crunchyroll 7/10
 
 ---
 
-[![kitsu](..\assets\img\kitsu.png)](kitsuurl)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san)  
+[![kitsu](..\assets\img\kitsu.png)](https://kitsu.io/anime/ijiranaide-nagatoro-san)[![mal](..\assets\img\mal.ico)](https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san)  
 Official Site: [https://www.nagatorosan.jp/](https://www.nagatorosan.jp/)  
