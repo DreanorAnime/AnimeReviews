@@ -3,7 +3,7 @@ layout: post
 title: "Fruits Basket 2nd Season"
 img: posts/fruits_basket_2nd_season.jpg 
 date: 2020-09-20 15:14:00 +0200
-tags: [Slice of Life, Comedy, Supernatural, Drama, Romance, Shoujo]
+tags: [Slice of Life, Comedy, Supernatural, Drama, Romance, Shoujo, Fruits Basket]
 ---
 
 ## Synopsis
