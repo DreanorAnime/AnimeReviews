@@ -3,7 +3,7 @@ layout: post
 title: "Yuukoku no Moriarty"
 img: posts/yuukoku.jpg 
 date: 2020-12-21 19:25:00 +0000
-tags: [Mystery, Historical, Psychological, Shounen]
+tags: [Mystery, Historical, Psychological, Shounen, Yuukoku no Moriarty]
 ---
 
 ## Synopsis
